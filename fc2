@@ -1,8 +1,12 @@
 file 2
+
+file 2
+file 2
+file 2
+file 2
 <<<<<<< HEAD
-file 2
-file 2
-file 2
-file 2
 =======
 >>>>>>> commit dev 2
+=======
+
+>>>>>>> dev处理冲突
